@@ -1,0 +1,114 @@
+ h1{
+    background-color: deeppink;
+    color: blue;
+    display: inline-block;
+ }
+ #h11{
+   padding-left: 10px;
+   padding-top: 20px;
+   padding-bottom: 20px;
+   padding-right: 10px;
+   border: 10px solid blue;
+   margin: 20px;
+ }
+ #h12{
+   padding-left: 10px;
+   padding-top: 20px;
+   padding-bottom: 20px;
+   padding-right: 10px;
+   border: 10px dotted blue;
+   margin: 20px;
+ }
+ #h13{
+   padding-left: 10px;
+   padding-top: 20px;
+   padding-bottom: 20px;
+   padding-right: 10px;
+   border: 10px dashed blue;
+   margin-left: 20px;
+ }
+ #h14{
+   padding-left: 10px;
+   padding-top: 20px;
+   padding-bottom: 20px;
+   padding-right: 10px;
+   border: 10px insert blue;
+   margin-left: 20px;
+ }
+ #h15{
+   padding-left: 10px;
+   padding-top: 20px;
+   padding-bottom: 20px;
+   padding-right: 10px;
+   border: 10px outset blue;
+   margin-left: 20px;
+ }
+ #h16{
+   padding-left: 10px;
+   padding-top: 20px;
+   padding-bottom: 20px;
+   padding-right: 10px;
+   border: 10px ridge blue;
+   margin-left: 20px;
+ }
+ #h17{
+   padding-left: 10px;
+   padding-top: 20px;
+   padding-bottom: 20px;
+   padding-right: 10px;
+   border: 10px groove blue;
+   margin-left: 20px;
+ }
+ #h18{
+   padding-left: 10px;
+   padding-top: 20px;
+   padding-bottom: 20px;
+   padding-right: 10px;
+   border: 10px double blue;
+   margin-left: 20px;
+ }
+ #h19{
+   padding-left: 10px;
+   padding-top: 20px;
+   padding-bottom: 20px;
+   padding-right: 10px;
+   border: 10px none blue;
+   margin-left: 20px;
+ }
+ #h10{
+   padding-left: 10px;
+   padding-top: 20px;
+   padding-bottom: 20px;
+   padding-right: 10px;
+   border: 10px hidden blue;
+   margin-left: 20px;
+ }
+ #img1{
+   display: block;
+   background-color: pink;
+ }
+  img{
+   width: 200px;
+   height: 200px;
+   border: 5px ridge black;
+   padding: 20px;
+   margin: 20px;
+   background-color: pink;
+  }
+  #c1 {
+   padding: 10px;
+   border: 10px solid red;
+   margin: 10px;
+   box-sizing: content-box;
+   
+   width: 200px;
+   height: 200px;
+  }
+  #c2 {
+   padding: 10px;
+   border: 10px solid red;
+   margin: 10px;
+   box-sizing: border-box;
+   width: 200px;
+   height: 200px;
+  }
